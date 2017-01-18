@@ -13,7 +13,6 @@
 
         <activity android:name=".SunActivity" />
         <activity android:name=".DetalsActivity" />
-        <activity android:name=".TestActivity" />
         <activity android:name=".LaunchSplashScreen">
             <intent-filter>
             <action android:name="android.intent.action.MAIN" />
