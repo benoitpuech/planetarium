@@ -18,7 +18,7 @@ public class SunActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_detals);
+        setContentView(R.layout.activity_system);
 
         listplanet = (ListView) findViewById(R.id.idlist_item);
 
